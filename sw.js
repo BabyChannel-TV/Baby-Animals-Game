@@ -1,4 +1,4 @@
-const CACHE = 'baby-balloons-v5';
+const CACHE = 'baby-balloons-v6';
 const ASSETS = [
   './index.html',
   './manifest.json',
