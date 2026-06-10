@@ -1,6 +1,6 @@
-const CACHE = 'baby-balloons-v1';
+const CACHE = 'baby-balloons-v5';
 const ASSETS = [
-  './baby_balloons_FINAL10.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
